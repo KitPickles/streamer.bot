@@ -5,7 +5,7 @@ Code for Streamer.bot Automatic Welcome Messages and Shoutouts
 
  1. Download both of these files.
  2. Place WelcomeMessages.txt somewhere safe, as this is the file to
-    hold your random welcome messages.
+    hold your random welcome messages. This comes pre-loades with some silly movie quotes. Feel free to edit it with any messages you like. Get creative and make it your own!
  3. Import "Welcome_Message_with_Autoshoutout.txt" into Streamer.bot
     (Click the import button and drag the file to the top section of the
     import dialog box).
