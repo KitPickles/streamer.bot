@@ -1,6 +1,21 @@
-# Streamer.bot-AutoWelcome
-Code for Streamer.bot Auto Welcome Messages and AutoShoutout
+# Streamer.bot Auto-Welcome and Auto-Shoutout
+Code for Streamer.bot Automatic Welcome Messages and Shoutouts
 
-To Import Code to streamer.bot, just right click on the Actions List, under the Actions tab and click Import. Download the file then just click and drag the file from a file explorer window right into the import string area. A bunch of what looks like random text will show up and then other information will show up. Then just click Import.
+## Install Instructions:
 
-Download both these files and import the first one into streamer.bot then link the "Read random Line" Sub-Action in the WelcomeMessage Action list with the WelcomeMessage.txt. There Are Comments in the import with more setup instructions. Under the settings tab in streamer.bot, goto the "Events" tab and add the welcome message action to "First Words". 
+ 1. Download both of these files.
+ 2. Place WelcomeMessages.txt somewhere safe, as this is the file to
+    hold your random welcome messages.
+ 3. Import "Welcome_Message_with_Autoshoutout.txt" into Streamer.bot
+    (Click the import button and drag the file to the top section of the
+    import dialog box).
+ 4. On your Actions tab, look for the "Welcome Message" Action and edit
+    the "Read Random Line" sub-action to point to the folder you put
+    "WelcomeMessages.txt".
+ 5. There are comments in the sub-actions panel showing you how to set
+    up a simple system to ignore you and your bots, as well as how to
+    set up auto-shoutouts.
+ 6. Lastly, go to your Platforms tab and under Twitch --> Events -->
+    General, set the First Words to be the Welcome action.
+
+That's all there is to it! Happy streaming!
